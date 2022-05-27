@@ -1,1 +1,1 @@
-## Educational project for Intoroduction to ML course ITIS
+## Educational project for Introduction to ML course ITIS
