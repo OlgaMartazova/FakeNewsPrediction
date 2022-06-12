@@ -1,1 +1,1 @@
-## Educational project for Introduction to ML course ITIS
+## Code on Python and presentation included
